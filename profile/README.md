@@ -8,6 +8,7 @@ Right now, we are deploying core experimental layers. If you are a low-level sys
 
 * **[Explore CHSE Core Engine](https://github.com/humanethq/chse)** — Deep dive into Vector Symbolic Architectures and lock-free memory mapping.
 * **[Explore PIE Runtime](https://github.com/humanethq/pie)** — Master write-time state propagation and $O(1)$ read-path optimization graphs.
+* **[Humanet Core Platform](#)** — Deploy distributed runtimes and experience autonomous, kernel-bypassing hosting infrastructure.
 * **[Sentinel AI Telemetry](#)** — Inspect autonomous digital reincarnation routines and automated eBPF packet filters.
 * **[Local-to-Cloud Bridge](#)** — Download the lightning-fast secure development tunnel proxy for your CLI.
 
