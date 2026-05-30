@@ -17,5 +17,5 @@ Right now, we are deploying core experimental layers. If you are a low-level sys
 
 ---
 <p align="center">
-  <b>Official Organization Profile • Developed by Humanet Headquarters</b>
+  <b>Official Organization Profile • Humanet Headquarters</b>
 </p>
