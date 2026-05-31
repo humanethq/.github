@@ -12,7 +12,7 @@ Right now, we are deploying core experimental layers. If you are a low-level sys
 * **[Explore PIE Runtime](https://github.com/humanethq/pie)** — Master write-time state propagation and $O(1)$ read-path optimization graphs.
 * **[Humanet Core](#)** — Deploy distributed runtimes and experience autonomous, kernel-bypassing hosting infrastructure.
 * **[Humanet CLI](#)** — Command the infrastructure from your terminal via secure multi-region proxies and localized control gates.
-* **[Autonomous Agent](#)** — Orchestrate thousands of hyper-dense, thread-contention free AI layers operating with microsecond-level isolation boundaries.
+* **[Humanet Agent](#)** — Orchestrate thousands of hyper-dense, thread-contention free AI layers operating with microsecond-level isolation boundaries.
 * **[Sentinel AI Telemetry](#)** — Inspect autonomous digital reincarnation routines and automated eBPF packet filters.
 * **[Local-to-Cloud Bridge](#)** — Download the lightning-fast secure development tunnel proxy for your CLI.
 
