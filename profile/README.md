@@ -1,4 +1,4 @@
-![Humanet](https://github.com/humanethq/.github/blob/main/profile/main.png) 
+![Humanet](https://github.com/humanethq/.github/blob/main/profile/profile.png) 
 
 ---
 
@@ -6,7 +6,7 @@
 
 Right now, we are deploying core experimental layers. If you are a low-level systems developer, quant researcher, or cloud architect, explore our core initiatives below:
 
-* **[Humanet Cloud](https://humanet.uk)** — Next-generation autonomous cloud infrastructure engineered to power global decentralized systems and deep-tech runtimes.
+* **[Humanet Cloud](https://humanet.dev)** — Next-generation autonomous cloud infrastructure engineered to power global decentralized systems and deep-tech runtimes.
 * **[Humanet Finance](#)** — Autonomous financial intelligence engine built to process market sentiment, algorithmic indicators, and real-time data flows.
 * **[Explore CHSE Core Engine](https://github.com/humanethq/chse)** — Deep dive into Vector Symbolic Architectures and lock-free memory mapping.
 * **[Explore PIE Runtime](https://github.com/humanethq/pie)** — Master write-time state propagation and $O(1)$ read-path optimization graphs.
