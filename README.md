@@ -1,17 +1,23 @@
-![Humanet](https://github.com/humanethq/.github/blob/main/profile/main.png) 
+![Humanet](https://github.com/humanethq/.github/blob/main/profile/profile.png)
 
 ---
 
-## Get Involved & Ecosystem Architecture
+## Infrastructure & Runtimes for Isolated AI Execution
 
-Right now, we are deploying core experimental layers. If you are a low-level systems developer, quant researcher, or cloud architect, explore our core initiatives below:
+Humanet builds high-density isolation primitives, deterministic dataflow engines, and security tooling for running autonomous AI workloads in production and air-gapped environments.
 
-* **[Explore CHSE Core Engine](https://github.com/humanethq/chse)** — Deep dive into Vector Symbolic Architectures and lock-free memory mapping.
-* **[Explore PIE Runtime](https://github.com/humanethq/pie)** — Master write-time state propagation and $O(1)$ read-path optimization graphs.
-* **[Sentinel AI Telemetry](#)** — Inspect autonomous digital reincarnation routines and automated eBPF packet filters.
-* **[Local-to-Cloud Bridge](#)** — Download the lightning-fast secure development tunnel proxy for your CLI.
+### Core Products & Open-Source Tooling
+
+* ⚡ **[Frame by Humanet](https://humanet.dev)** — High-density Firecracker microVM runtime for AI applications featuring automatic build-time cache sealing and wire-level Phantom Secret injection.
+* 🛡️ **[`airgap-check`](https://github.com/humanethq/airgap-check)** — Zero-dependency static and dynamic (`--network none` + `UDP:53` DNS sinkhole) offline readiness, telemetry, and secret auditor for AI repositories.
+
+### Research & Experimental Kernels
+
+* 🧬 **[CHSE Core Engine](https://github.com/humanethq/chse)** — Experimental hyperdimensional indexing kernel utilizing Vector Symbolic Architectures (`V ∈ {-1, +1}^10000`) and lock-free memory mapping for streaming telemetry.
+* 📐 **[PIE Runtime](https://github.com/humanethq/pie)** — Compile-time causal dependency graph and write-path materialization engine designed for `O(1)` read-path state lookups.
 
 ---
+
 <p align="center">
-  <b>Official Organization Profile • Developed by Humanet Headquarters</b>
+  <b><a href="https://humanet.dev">humanet.dev</a></b> • <b>Humanet</b>
 </p>
