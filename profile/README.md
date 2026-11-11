@@ -10,6 +10,7 @@ Humanet builds high-density isolation primitives, deterministic dataflow engines
 
 * ⚡ **[Frame by Humanet](https://humanet.dev)** — High-density Firecracker microVM runtime for AI applications featuring automatic build-time cache sealing and wire-level Phantom Secret injection.
 * 🛡️ **[`airgap-check`](https://github.com/humanethq/airgap-check)** — Zero-dependency static and dynamic (`--network none` + `UDP:53` DNS sinkhole) offline readiness, telemetry, and secret auditor for AI repositories.
+* 🔒 **[`sandbox-check`](https://github.com/humanethq/sandbox-check)**: Zero-dependency in-guest auditor that tests what a sandboxed workload can still reach: cloud metadata (IMDS), proxy bypass, host gateway ports, capabilities and cgroup limits. Fail-closed exit codes for CI.
 
 ### Research & Experimental Kernels
 
